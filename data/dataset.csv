@@ -1,0 +1,9 @@
+id,text,label
+1,Urgent appointment-no-show-prediction-model alert require immediate action,risk
+2,Weekly appointment-no-show-prediction-model status looks normal,benign
+3,Suspicious appointment-no-show-prediction-model anomaly detected please verify,risk
+4,Routine appointment-no-show-prediction-model maintenance completed,benign
+5,Fraud pattern in appointment-no-show-prediction-model submissions,risk
+6,Training notes for appointment-no-show-prediction-model operators,benign
+7,Phishing attempt referencing appointment-no-show-prediction-model,risk
+8,All clear report for appointment-no-show-prediction-model queue,benign

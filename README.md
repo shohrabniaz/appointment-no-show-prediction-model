@@ -58,7 +58,7 @@ python -m src.cli run
 python tests\test_smoke.py
 ```
 
-Domain engine kind: `product`.
+Domain engine kind: `ai`.
 
 **Author:** Md Shohrab Hossen Niaz  
 **GitHub:** `appointment-no-show-prediction-model`
